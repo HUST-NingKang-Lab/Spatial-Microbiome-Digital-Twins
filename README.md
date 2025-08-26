@@ -2,7 +2,7 @@
 
 ## Data Collection
 
-Our study collected four public spatially structured microbiome datasets for benchmarking. These datasets span centimeter- to kilometer-scale gradients. Supplementary Table 1 summarizes each dataset used in this study. Abundance tables were downloaded directly from the Supplementary materials or public repositories of the source publications; no raw-read re-processing was performed.
+Our study collected four public spatially structured microbiome datasets for benchmarking. These datasets span centimeter- to kilometer-scale gradients.
 
 **Body sites dataset**: This human cohort comprises 1,628 samples from four anatomical niches—tongue, left palm, right palm and faeces—capturing centimetre-scale separation within hosts. Microbial community composition was measured via 16S ribosomal RNA (rRNA) amplicon sequencing. For the taxonomic resolution analysis, we used the provided rank-specific abundance tables (from class to genus).
 
